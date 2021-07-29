@@ -1,0 +1,6 @@
+.grayscale-img {
+    filter: grayscale(100%);
+}
+hr {
+    width: 70px;
+}
